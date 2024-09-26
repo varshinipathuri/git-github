@@ -1,2 +1,2 @@
 # git-github
-Hello Varshini pathuri Welcome to Git Git-hub
+Hello Varshini Pathuri Welcome to Git Git-hub
